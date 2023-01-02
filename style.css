@@ -1,12 +1,18 @@
 .container{
     background-color: aquamarine;
-
+    background-image: url('./image/1.jpg');
+    width: 500px;
+    height: 350px;
+    text-align: center;
 }
-
 .container h3{
     text-align: center;
-    color: rgb(185, 26, 26);
+    color: white;
     font-size: 30px;
     text-transform: capitalize;
     padding: 20px;
+}
+
+.container p{
+    color: rgb(202, 230, 175);
 }
