@@ -1,0 +1,12 @@
+.container{
+    background-color: aquamarine;
+
+}
+
+.container h3{
+    text-align: center;
+    color: rgb(185, 26, 26);
+    font-size: 30px;
+    text-transform: capitalize;
+    padding: 20px;
+}
